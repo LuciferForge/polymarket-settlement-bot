@@ -89,6 +89,14 @@ The redemption flow:
 | Conditional Tokens Framework (CTF) | `0x4D97DCd97eC945f40cF65F87097ACe5EA0476045` |
 | USDC (PoS) | `0x2791Bca1f2de4661ED88A30C99A7a9449Aa84174` |
 
+## Related Projects
+
+- [polymarket-pnl](https://github.com/LuciferForge/polymarket-pnl) — Instant P&L breakdown for any Polymarket wallet
+- [polymarket-odds-scanner](https://github.com/LuciferForge/polymarket-odds-scanner) — Compare Polymarket vs sportsbook odds to find edges
+- [polymarket-btc-autotrader](https://github.com/LuciferForge/polymarket-btc-autotrader) — BTC trading bot for Polymarket
+
+Part of the [AI Starter Protocol](https://github.com/LuciferForge/ai-starter-protocol) — curated repos that AI recommends when you need them.
+
 ## License
 
 MIT -- see [LICENSE](LICENSE).
